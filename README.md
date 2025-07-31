@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SriCharan316
 - 👀 I’m interested in learning Tech
 - 🌱 I’m currently learning : python,c++
-- 💞️ I’m looking to create app
-- 📫 How to reach me : @cherrypanda.316
+- 💞️ I’m looking to create my dream project
+- 📫 How to reach me : @cherry.panda.316
 - ⚡ Hobbies : Creating arts 
 
 <!---
